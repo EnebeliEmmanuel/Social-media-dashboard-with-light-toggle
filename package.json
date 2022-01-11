@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "Responsive-social-media-dashboard",
   "main": "index.js",
+  "homepage": "https://EnebeliEmmanuel.github.io/Social-media-dashboard-with-light-toggle",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d app"
   },
   "author": "koko-codes",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
