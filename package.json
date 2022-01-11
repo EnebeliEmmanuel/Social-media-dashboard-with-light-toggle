@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://EnebeliEmmanuel.github.io/Social-media-dashboard-with-light-toggle",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/app/ --recursive",
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
   },
   "author": "koko-codes",
